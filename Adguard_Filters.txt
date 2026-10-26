@@ -1,9 +1,15 @@
 ! ------------------------------------------------------------------------------
 ! Title: ST Adguard Filters
 ! Description: 개인용 광고 차단 및 사이트 최적화 필터
-! Version: 2026.0922.0
+! Version: 2026.1026.0
 ! Update interval: 7 day
 ! Expires: 7 day
+! ------------------------------------------------------------------------------
+
+!네이버
+!네이버 쇼핑 광고 차단 해제 (파워링크 등)
+@@||shopping.naver.com^$important,document
+
 ! ------------------------------------------------------------------------------
 
 ! 디스코드
@@ -45,6 +51,9 @@ fmkorea.com##div#content > div.content_dummy > main > div.bd > div:has([src*="pr
 ! 쿨엔조이
 ! 단축키 기능 차단
 ||coolenjoy.net/plugin/hotkey/grz_hot_use.js$domain=coolenjoy.net
+
+! 이미지 도메인 차단 해제
+@@||photo.coolenjoy.co.kr^$important
 
 ! ------------------------------------------------------------------------------
 

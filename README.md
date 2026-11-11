@@ -14,13 +14,13 @@
 ### AdGuard
 
 ```text
-https://raw.githubusercontent.com/II-StealTh-II/ST-Adguard-Filters-Public/main/Adguard_Filters.txt
+https://cdn.jsdelivr.net/gh/II-StealTh-II/ST-Adguard-Filters-Public@main/Adguard_Filters.txt
 ```
 
 ### AdGuard DNS / AdGuard Home
 
 ```text
-https://raw.githubusercontent.com/II-StealTh-II/ST-Adguard-Filters-Public/main/Adguard_DNS_Filters.txt
+https://cdn.jsdelivr.net/gh/II-StealTh-II/ST-Adguard-Filters-Public@main/Adguard_DNS_Filters.txt
 ```
 
 필터 갱신 주기는 7일입니다.
